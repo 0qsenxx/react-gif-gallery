@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-gif-gallery/static/css/main.a9f2e09b.css",
+    "main.js": "/react-gif-gallery/static/js/main.d0b32448.js",
+    "index.html": "/react-gif-gallery/index.html",
+    "main.a9f2e09b.css.map": "/react-gif-gallery/static/css/main.a9f2e09b.css.map",
+    "main.d0b32448.js.map": "/react-gif-gallery/static/js/main.d0b32448.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9f2e09b.css",
+    "static/js/main.d0b32448.js"
+  ]
+}
